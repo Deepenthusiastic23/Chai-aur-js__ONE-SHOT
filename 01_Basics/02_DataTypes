@@ -1,0 +1,26 @@
+"use strict" // treat all js codes as newer version
+
+// alert(3+3)   //we are using nodejs , not browsers
+
+console.log(3 +3 ); console.log("Depak")  // Code readability thAT should be high
+
+
+let name = "Deepak"
+let age = 20
+let isLoggedIn = false 
+
+// . Premitive DataTypes
+// number => 2 to power 53
+// bigint 
+// string = ""
+// boolean : True | False
+// null => standlone value
+// undefined 
+// symbol
+
+
+
+//object
+
+console.log(typeof null) // undefined
+console.log(typeof undefined) // object
